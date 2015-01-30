@@ -46,6 +46,7 @@ Temporary Items
 #Custom for cocos2dx
 cocos2d/
 proj.android/
+proj.android
 proj.ios_mac/
 proj.blackberry/
 proj.mac/
